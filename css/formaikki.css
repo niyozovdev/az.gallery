@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body .div-bir{
+    width: 470px;
+    height: 600px;
+    margin: auto;
+    background-color: #606068;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+body .div-bir span h1{
+    text-align: center;
+    margin-top: 20px;
+}
+body .div-bir .article-bir #text{
+    font-size: 20px;
+    border: 0;
+    height: 40px;
+    width: 200px;
+    margin: 20px 0px 20px 20px;
+    padding-left: 10px;
+    border-radius: 7px;
+}
+body .div-bir .article-ikki #email{
+    width: 430px;
+    height:40px;
+    margin-left: 20px;
+    font-size: 20px;
+    border: 0;
+    padding-left: 10px;
+    border-radius: 7px;
+}
+body  .div-bir .article-uch #password{
+    width: 430px;
+    height:40px;
+    margin-left: 20px;
+    font-size: 20px;
+    border: 0;
+    padding-left: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+body .div-bir .article-turt{
+    margin:50px auto auto 90px;
+    color: aliceblue;
+}
+body .div-bir .button-bir{
+    width: 350px;
+    height: 48px;
+    border-radius: 17px;
+    border: 0;
+    background-color: rgb(174, 128, 94);
+    margin: 40px auto auto 60px;
+    font-size: 30px;
+    color: brown;
+    font-weight: 700;
+}
+body .div-bir .span-bir{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
